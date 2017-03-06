@@ -26,8 +26,21 @@ package="fr.yamishadow.gsbandroid" >
     </activity>
     <activity
         android:name=".HfRecapActivity"
-        android:label="@string/title_activity_hf_recap" >
+        android:label="Récapulatif de Frais Horfait" >
     </activity>
+    <activity
+        android:name=".RepasActivity"
+        android:label="Suivi de vos frais" >
+    </activity>
+    <activity
+        android:name=".EtapeActivity"
+        android:label="Suivi de vos frais" >
+    </activity>
+    <activity
+        android:name=".NuitActivity"
+        android:label="Suivi de vos frais" >
+    </activity>
+
 </application>
 
 </manifest>
